@@ -13,6 +13,7 @@ This repository provides a structured starting point for building a React applic
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
 - **ShadCN Theme**: A customizable and responsive theme for your React application.
 - **Folder Structure**: Organized project structure to manage components, assets, and styles effectively.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
 - **Best Practices**: Code examples and best practices to follow when developing with React and TypeScript.
 
 ---
